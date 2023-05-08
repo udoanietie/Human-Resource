@@ -51,7 +51,7 @@ JobLevel                 |             Job Levels
 
 4. Using Conditional Formatting to add Promotion Status, Retrenchment Status, Service Year, Performance Rating Status Columns etc.
 
-You can interact with the report [here] (https://app.powerbi.com/groups/me/reports/d0df3ed7-fe80-4909-901f-c17603b27cf9)
+You can interact with the report [here] (https://app.powerbi.com/view?r=eyJrIjoiYjViYzcyZTYtNmNjNC00MGI0LWE0ZmEtNzA4M2YyMDllMDhhIiwidCI6IjkzYTcwZTNiLWEyNDktNGEzYy05ODlhLTdhOWY2Njg5OTNkYyJ9)
 
 
 ## The company has a total number of 1,470 employees with three departments, namely:
